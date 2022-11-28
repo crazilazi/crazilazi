@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @crazilazi
-- 👀 I’m interested in javascript, c#, angular, nextjs, react
-- 🌱 I’m currently learning web3
+- 👋 Hi, I'm the laziest person but a crazy creature, 
+          who is in love with web3 but working as full stack developer in web2.
+- 👀     I love JavaScript, coz it makes you happy most of the time. 
+          I like creating magic using c#, JavaScript, angular, react, azure, events.
+- 🌱      Currently learning solidity, NextJs.
+
 - 📫 How to reach me twitter-@rajeev_rnjan
 
 <!---
