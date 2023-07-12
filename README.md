@@ -4,7 +4,7 @@
           I like creating magic using c#, JavaScript, angular, react, azure, events.
 - 🌱      Currently learning solidity, NextJs.
 
-- 📫 How to reach me twitter-@crazialien
+- 📫 How to reach me twitter-@lazilads
 
 <!---
 crazilazi/crazilazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
