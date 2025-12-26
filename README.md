@@ -100,18 +100,6 @@ Lightweight MCP (Model Context Protocol) implementation
 - TypeScript-based protocol implementation
 - **Stack:** TypeScript
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crazilazi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crazilazi&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=crazilazi&theme=radical&hide_border=true)
-
-</div>
-
 ## 🏆 Achievements
 
 - ✅ **12 Years** of professional development experience
