@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Developer** with **12 years of experience** crafting robust, scalable applications across the full technology stack. My journey spans from traditional web development to cutting-edge blockchain and AI solutions.
+I'm a **Senior Full Stack Developer** crafting robust, scalable applications across the full technology stack. My journey spans from traditional web development to cutting-edge blockchain and AI solutions.
 
 - 🔭 Currently working on **AI-Pilot** - An Enterprise Multi-Agent AI Platform
 - 🌱 Exploring advanced **AI/ML integrations** and **Web3 technologies**
@@ -102,7 +102,6 @@ Lightweight MCP (Model Context Protocol) implementation
 
 ## 🏆 Achievements
 
-- ✅ **12 Years** of professional development experience
 - ✅ **33+** public repositories showcasing diverse tech stack
 - ✅ Built production applications used by **real users**
 - ✅ Experience across **Frontend**, **Backend**, **Blockchain**, and **AI/ML**
