@@ -137,7 +137,7 @@ const expertise = {
 
 ## 💬 Quote
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+> "Code is like life. If you do not feel it, you cannot live with it." – Rajeev Ranjan
 
 ---
 
@@ -145,7 +145,5 @@ const expertise = {
   
 ### ⚡ Fun Fact
 I've worked across the entire tech evolution - from AngularJS to modern React, from SQL to blockchain, and now diving deep into AI! 🚀
-
-**💼 Open to interesting projects and collaborations!**
 
 </div>
